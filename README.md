@@ -1,4 +1,4 @@
-# PRODIGY_WD_05
+# Live-Weather-App
 **Weather-App**
 
 **Description:**
@@ -24,11 +24,14 @@ This Weather-App is a simple web application built using HTML, CSS, and JavaScri
 This Weather-App was created by [Abhishek Kumar Sharma].
 
 
+
 **Preview:**
-[Include a screenshot of the Weather-App interface here if possible]
+![Screenshot 1](https://github.com/Abhishekkumarsharma1001/Live-Weather/blob/main/Screenshot%202024-03-04%20033931.png)
+
 
 **Demo:**
 [Link to Live Demo](https://65e4f2a342cf7edfd01f9644--helpful-hotteok-dd0698.netlify.app/)
+
 
 #### Contact:
 For any inquiries or support, please contact [abhikumarsharma146@gmail.com].
