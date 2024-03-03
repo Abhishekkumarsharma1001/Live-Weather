@@ -21,7 +21,7 @@ This Weather-App is a simple web application built using HTML, CSS, and JavaScri
 - JavaScript
 
 **Credits:**
-This Weather-App was created by [Abhishek Kumar Sharma].
+This Weather-App was created by [Abhishek Kumar Sharma](https://www.linkedin.com/in/abhishek-kumar-sharma-3b2bb0213).
 
 
 
